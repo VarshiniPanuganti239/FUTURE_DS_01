@@ -1,0 +1,25 @@
+# ==================================================
+# Business Sales Performance Dashboard Requirements
+# ==================================================
+
+Microsoft Power BI Desktop (Latest Version)
+
+Dataset:
+Global Superstore Dataset (.csv)
+
+Operating System:
+Windows 10 / Windows 11
+
+Optional:
+Microsoft Excel 2019 or later
+
+Skills Required:
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Visualization
+## Requirements
+
+- Microsoft Power BI Desktop (Latest Version)
+- Windows 10/11
+- Global Superstore Dataset
